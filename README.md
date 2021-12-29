@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hulljs/hulljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey, my friends call me Jay!
+
+### Welcome to my portfolio, I like to tinker, and have a few private repos for some of my ideas, reach out to know more!
+
+---
